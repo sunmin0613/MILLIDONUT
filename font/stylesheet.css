@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'paybooc';
+    src: url('payboocExtraBold.woff2') format('woff2'),
+        url('payboocExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'paybooc';
+    src: url('payboocLight.woff2') format('woff2'),
+        url('payboocLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'paybooc';
+    src: url('payboocBold.woff2') format('woff2'),
+        url('payboocBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('payboocOTFBold.woff2') format('woff2'),
+        url('payboocOTFBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'paybooc';
+    src: url('payboocMedium.woff2') format('woff2'),
+        url('payboocMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'paybooc';
+    src: url('payboocOTFMedium.woff2') format('woff2'),
+        url('payboocOTFMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'paybooc';
+    src: url('payboocOTFExtraBold.woff2') format('woff2'),
+        url('payboocOTFExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'paybooc';
+    src: url('payboocOTFLight.woff2') format('woff2'),
+        url('payboocOTFLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
