@@ -275,7 +275,25 @@ body {
 
 
 .event2_1 {
-    background-color: #7b822e;
+    background: url(../images/community/bm_event.jpg) no-repeat;
+    height: 300px;
+    width: 370px;
+    position: relative;
+    text-align: center;
+
+}
+
+.event2_4 {
+    background: url(../images/community/sns_img5.jpg) no-repeat;
+    height: 300px;
+    width: 370px;
+    position: relative;
+    text-align: center;
+
+}
+
+.event2_3 {
+    background: url(../images/community/sns_img4.jpg) no-repeat;
     height: 300px;
     width: 370px;
     position: relative;
@@ -290,9 +308,31 @@ body {
 
 }
 
+.event2_3 img {
+    padding-top: 34px;
+
+}
+
+.event2_4 img {
+    padding-top: 34px;
+
+}
+
+.event2_3 p {
+    font-size: 35px;
+    color:wheat;
+    font-weight: bold;
+}
+
 .event2_1 p {
     font-size: 35px;
-    color: #6f1d77;
+    color: wheat;
+    font-weight: bold;
+}
+
+.event2_4 p {
+    font-size: 35px;
+    color: wheat;
     font-weight: bold;
 }
 
