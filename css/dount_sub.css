@@ -363,12 +363,16 @@ h3 {
 }
 
 
-.dount_menu2 ul li img:hover {
+.dount_menu2 ul li a img:hover {
     animation: rotate 1s linear;
 }
 
 
 .dount_menu2 .best3:hover {
+    animation: none;
+}
+
+.dount_menu .best4:hover {
     animation: none;
 }
 
