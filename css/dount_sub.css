@@ -367,6 +367,11 @@ h3 {
     animation: rotate 1s linear;
 }
 
+
+.dount_menu2 .best3:hover {
+    animation: none;
+}
+
 /* dount2 */
 
 
